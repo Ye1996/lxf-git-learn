@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Test fast forward.
 Test fast forward again.
 test.
+test.
